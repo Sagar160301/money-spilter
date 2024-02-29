@@ -8,4 +8,7 @@ export const Routes = {
   about: {
     main: () => '/about',
   },
+  privacy: {
+    main: () => '/privacy-policy',
+  },
 };
